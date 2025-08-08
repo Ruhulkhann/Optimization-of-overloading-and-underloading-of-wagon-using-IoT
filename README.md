@@ -24,3 +24,7 @@ ESP-NOW	                          Wireless peer-to-peer communication between ES
 I2C	                              Communication between master ESP32 and OLED display (SSD1306).
 Digital GPIO	                    Used for triggering buzzer and reading digital output from HX711 modules.
 HX711 Serial Protocol	            2-wire protocol to read data from load cells via HX711.
+
+
+
+CURRENTLY WORKING ON NODE-RED ( CONNECT MASTER ESP32 WITH THE MYSQL DATABASE )
